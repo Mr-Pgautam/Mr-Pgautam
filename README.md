@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_pgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mr_pgautam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr_pgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mr_pgautam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mrpgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mr_pgautam" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.pgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr_pgautam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mr_pgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mr_pgautam" height="30" width="40" /></a>
 </p>
